@@ -1,0 +1,1 @@
+cargo_build(NAME ed25519_bip32_c_interface)
